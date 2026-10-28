@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains Jupyter notebooks for analyzing X-ray Photon Correlation Spectroscopy (XPCS) measurements performed at the Coherent Hard X-ray (CHX) beamline at the National Synchrotron Light Source II (NSLS-II), Brookhaven National Laboratory.
+This repository contains Jupyter notebooks for analyzing and plotting X-ray Photon Correlation Spectroscopy (XPCS) measurements performed at the Coherent Hard X-ray (CHX) beamline at the National Synchrotron Light Source II (NSLS-II), Brookhaven National Laboratory. Also contains files that are used to plot XPD data together with their Rietveld refinement from the PDF beamline, NSLS-2.
 
 The repository includes temperature-specific XPCS analysis notebooks covering measurements from **170 K to 220 K**, along with a notebook for retrieving archived process-variable (PV) data for temperature-stability analysis.
 
@@ -74,6 +74,6 @@ For reliable and reproducible analysis:
 
 ## Acknowledgments
 
-This work is associated with XPCS measurements and data analysis at the **Coherent Hard X-ray (CHX) beamline, National Synchrotron Light Source II (NSLS-II), Brookhaven National Laboratory**.
+This work is associated with XPCS measurements and data analysis at the **National Synchrotron Light Source II (NSLS-II), Brookhaven National Laboratory**.
 
 Please include the appropriate facility acknowledgments and citations to relevant publications when presenting or publishing results obtained using these workflows.
